@@ -2,5 +2,16 @@
   text-align: center;
   height: 10rem;
   width: 80%;
-  margin: 1rem auto;
+  margin: 1.8rem auto 1rem auto;
+}
+
+.btn {
+  height: 3.3rem !important;
+  width: 15%;
+}
+
+.container h1 {
+  font-size: 3.5rem;
+  letter-spacing: 8px;
+  color: #0c2d48;
 }
